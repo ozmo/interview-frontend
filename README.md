@@ -18,8 +18,8 @@ Shane at shane.boyer@ozmoapp.com.
 
 When you're finished:
 
-1. Create a zip of the folder (excluding `node_modules`)
-2. Email the zip to Shane to let him know you're done.
+1. Email Shane to confirm you're ready to present your solution to the team.
+2. Bring the solution with you on presentation day
 
 ## Overview
 
