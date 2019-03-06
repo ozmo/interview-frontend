@@ -16,9 +16,9 @@ Shane at shane.boyer@ozmoapp.com.
 
 ## Submission
 
-Please commit all your changes to this git repository. When you're done:
+When you're finished:
 
-1. Create a zip of this repository (excluding `node_modules`)
+1. Create a zip of the folder (excluding `node_modules`)
 2. Email the zip to Shane to let him know you're done.
 
 ## Overview
