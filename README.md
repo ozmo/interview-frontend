@@ -67,7 +67,6 @@ demo that looks like this:
 
 - The component should be reusable. It should be possible to have multiple
   instances of the component on the same page.
-- The "States" example that uses a data array should continue to work.
 - The component should accept any HTTP endpoint, not just the
   `https://api.github.com/users` example above.
 - Your component should work correctly in Chrome, don’t worry about
