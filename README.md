@@ -14,16 +14,17 @@ SOLUTION.md file.
 If you have any questions at any point during the exercise, please reach out to
 Shane at shane.boyer@ozmoapp.com.
 
-## Submission
+## Workflow
 
-When you're finished:
-
-1. Email Shane to confirm you're ready to present your solution to the team.
-2. Bring the solution with you on presentation day
+1. [Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks) this repository into your own github account
+2. Create a branch on your fork
+3. Make changes in the branch using your own coding tools to complete the goals listed in the Tasks section below
+4. Create and submit a [pull request (PR)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) back to this repository that contains your changes
+5. Present your PR during the interview
 
 ## Overview
 
-We’ve built a simple Autocomplete/Typeahead component in vanilla JavaScript
+This repository contains a simple Autocomplete/Typeahead component in vanilla JavaScript
 (compiled with Babel 7) that lets you type in a query and shows a list of
 matching results in a dropdown, just like how Google's search box works.
 
