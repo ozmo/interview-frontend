@@ -30,9 +30,10 @@ matching results in a dropdown, just like how Google's search box works.
 
 To see this component in action, let's set up the repo:
 
-1. Run `npm install`
-2. Run `npm start` (runs `webpack-dev-server`)
-3. Open `http://localhost:8080` on your browser.
+1. Install npm and node for your local development environment. The current package.json is tested on npm version 8.x and Node version 16.x and up.
+2. Run `npm install`
+3. Run `npm start` (runs `webpack-dev-server`)
+4. Open `http://localhost:8080` on your browser.
 
 Type "new" in the input, and you'll get a list of matching US states that start
 with "new".
