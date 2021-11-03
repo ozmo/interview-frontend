@@ -17,7 +17,7 @@ Shane at shane.boyer@ozmoapp.com.
 ## Workflow
 
 1. [Fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/about-forks) this repository into your own github account
-2. Clone the repository locallay and create a branch on your fork
+2. Clone the repository locally and create a branch on your fork
 3. Make changes in the branch using your own coding tools to complete the goals listed in the Tasks section below
 4. Create and submit a [pull request (PR)](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) back to this repository that contains your changes
 5. Present your PR during the interview
