@@ -3,23 +3,16 @@ import Autocomplete from './Autocomplete';
 import usStates from './us-states';
 import './main.css';
 
-
-// US States
-const data = usStates.map(state => ({
-  text: state.name,
-  value: state.abbreviation,
-}));
-new Autocomplete(document.getElementById('state'), {
-  data,
-  onSelect: (stateCode) => {
-    console.log('selected state:', stateCode);
+// Github Users
+new Autocomplete(document.getElementById('gh-user'), "https://api.github.com/search/users?q=", "users",{
+  onSelect: (ghUserId) => {
+    console.log('selected github user id:', ghUserId);
   },
 });
 
-
-// Github Users
-// new Autocomplete(document.getElementById('gh-user'), {
-//   onSelect: (ghUserId) => {
-//     console.log('selected github user id:', ghUserId);
-//   },
-// });
+// Github Topics
+new Autocomplete(document.getElementById('gh-topic'), "https://api.github.com/search/topics?q=", "topics", {
+  onSelect: (ghTopic) => {
+    console.log('selected github topic:', ghTopic);
+  },
+});

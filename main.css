@@ -33,6 +33,10 @@ ul {
   background-color: #eee;
 }
 
+.result:focus {
+  background-color: #eee;
+}
+
 form {
   display: flex;
 }
